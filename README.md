@@ -11,3 +11,6 @@ This folder contains a login page with a theme of todo application whose graphic
 
 # locker_theme
 This folder is based on the theme of a locker which is just a login screen and one of the most basic ones in python build with tkinter and has no database connection at all , this code can be modified and connected to a database for a long list of users entering their login credentials. 
+
+# Tourism
+This project is a simple yet beautiful tourism website , index_home is the main landing page of this website , it uses HTML,CSS and minimal JS 
